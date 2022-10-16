@@ -33,7 +33,21 @@ sehingga muncul git bash commad
 6. Berikutnya Menyimpan perubahan ke database gunakan perintah git commit -m “komentar commit”
 
 	<img width="364" alt="foto 5" src="https://user-images.githubusercontent.com/115473988/196045990-dc079700-78ef-4a11-8d8d-5bf79109fe08.png">
+	
+7. Kemudian membuat repository server dan isi nama pada kolom kosong tersebut contoh = "ContohLatihanVCS" kemudian klik tombol Create repository
 
+ 	<img width="364" alt="foto 5" src="https://user-images.githubusercontent.com/115473988/196046351-bd861fa0-5a1c-457a-8515-16055d609fce.png">
+
+
+8. Dan setelah itu menambahkan Remote Repository yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. dengan menggunakan perintah "git remote add origin [url]" 
+
+   <img width="386" alt="image" src="https://user-images.githubusercontent.com/115473988/196046539-9ac75e11-5d9f-4733-91eb-c24f906a8b62.png">
+
+9.Kemudian mengirim perubahan ke server Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+
+   <img width="389" alt="image" src="https://user-images.githubusercontent.com/115473988/196046826-a700a4fd-34fb-4ff2-8f82-7076b0d98a9d.png">
+
+10. Melihat hasilnya pada server repository
 
 
 
