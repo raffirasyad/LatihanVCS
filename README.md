@@ -49,6 +49,7 @@ sehingga muncul git bash commad
 
 10. Melihat hasilnya pada server repository
 
+   <img width="941" alt="image" src="https://user-images.githubusercontent.com/115473988/196046943-6a4178a0-94e2-4c1f-a831-f53260c1f933.png">
 
 
 
